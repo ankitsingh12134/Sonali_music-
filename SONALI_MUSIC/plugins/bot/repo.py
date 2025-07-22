@@ -13,7 +13,7 @@ start_txt = """**
  
 ❉ ᴘᴧʜʟє ᴘᴧᴘᴧ ʙσʟ ʀєᴘᴏ ᴏᴡηєʀ ᴋᴏ 
 
-✼ || [Jani Music](https://t.me/Jani_RP) ||
+✼ || [𝐊𝖺𝗏𝗒𝖺 ꭙ 𝐌ᴜsɪᴄ](https://t.me/VIP_ANKIT_121) ||
  
 ❊ ʀᴜη 24x7 ʟᴧɢ ϝʀєє ᴡɪᴛʜσᴜᴛ sᴛσᴘ**
 """
@@ -28,11 +28,11 @@ async def start(_, msg):
           InlineKeyboardButton("✙ ᴧᴅᴅ ϻє вᴧʙʏ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜєʟᴘ •", url="http://t.me/Jani_RP_Lover"),
-          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/+7ROq61PIXmE5NmU1"),
+          InlineKeyboardButton("• ʜєʟᴘ •", url="http://t.meVIP_ANKIT_121"),
+          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/+eDGuiLMGvO0zNmFl"),
           ],
 [
-InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/Jani_Music_Robot"),
+InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/kavya_music_robot"),
 
         ]]
     
